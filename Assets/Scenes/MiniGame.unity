@@ -684,6 +684,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   countText: {fileID: 1936000927}
+  winText: {fileID: 154344030}
 --- !u!1 &606088314
 GameObject:
   m_ObjectHideFlags: 0
